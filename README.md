@@ -1,6 +1,6 @@
-# 18
+# Stock Trader
 
-> A Vue.js project
+> A Vue.js project (vue-router, vuex)
 
 ## Build Setup
 
